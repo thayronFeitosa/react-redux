@@ -3,7 +3,6 @@ import Card from './Card';
 
 
 export default props => {
-    const {min, max} = props;
 
     return (
         <Card title="Media dos Números" green>
@@ -11,7 +10,7 @@ export default props => {
                 <span>
                     <span> Resutado:</span>
 
-                    <strong>{(max+min) /2}</strong>
+                    <strong>10</strong>
                 </span>
 
             </div>
