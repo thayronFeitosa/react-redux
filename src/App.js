@@ -21,7 +21,7 @@ function App() {
       </div>
 
       <div className="linha">
-        <Media ></Media>
+      <Media ></Media>
         <Soma ></Soma>
         <Sorteio>y</Sorteio>
       </div>
